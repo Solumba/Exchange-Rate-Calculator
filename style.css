@@ -83,7 +83,7 @@ img {
     outline: 0;
 }
 
-@media  and (max-width: 600px) {
+@media screen and (max-width: 600px) {
     .currency input {
         width: 200px;
     }
